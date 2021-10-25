@@ -50,6 +50,9 @@ Patients belonging to all the race groups have similar rate of readmission
 7. **Can the state of the patient during admission or discharge indicate readmission?**
 ![alt text](https://github.com/kihtrakinam/Diabetes-Reamission/blob/401e3a998cb3292612975e41c7f645932e9235db/admission_source_idVsReadmission.jpg "Admission_source_id vs Readmission")
 ![alt text](https://github.com/kihtrakinam/Diabetes-Reamission/blob/401e3a998cb3292612975e41c7f645932e9235db/discharge_disposition_idVsReadmission.jpg "Discharge_disposition_id vs Readmission")
+Yes, Patients noted with the followint admission and discharge states have higher chances of readmission
+- Admission source id as Court/Law Inforcement and Emergency
+- Discharge disposition id as Patient 
 
 ## Complexity observed
 - Class imbalance
